@@ -1,4 +1,4 @@
-# prasad-interview-exercise
+# siv-interview-exercise
 
 GOAL: Return the top `N`  patients based on their scores which is proximity to the hospital and other factors defined below
 
